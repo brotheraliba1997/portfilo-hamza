@@ -14,7 +14,7 @@ function HeroSection() {
     <h1>
       HAMZA
       <br />
-      <span>ALI{/* */}.</span>
+      <span>ALI.</span>
     </h1>
     <div className="role-line">
       <span>I build as Link</span>
